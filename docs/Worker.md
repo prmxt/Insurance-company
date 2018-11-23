@@ -9,5 +9,5 @@
 + INN : String - ИНН;
 + PassportData : string - паспортные данные;
 + Phone : String - телефон;
-+ BrancheOffice : BranchOffice - филиал;
++ BrancheOffice : [BO](https://github.com/prmxt/Insurance-company/blob/master/docs/BranchOffice.md) - филиал;
 + Position : String - должность.
