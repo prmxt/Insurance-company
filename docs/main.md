@@ -2,6 +2,8 @@
 ***
 ### Диаграмма размещений
 ![diag razm](https://pp.userapi.com/c850532/v850532619/4b035/1T9gFdv1VBA.jpg)
+   
+   
 Диаграмма размещения показывает физические взаимосвязи между программными и аппаратными компонентами системы. 
 Клиентское приложение, установленное на компьютере пользователя, взаимодействует с сервером, 
 который содержит в себе базу данных.
@@ -18,11 +20,11 @@
 ***
 ## **Список всех интерфейсов:**
 
-+ [IClient]()
-+ [IWorker]()
-+ [IContract]()
-+ [IInsuranceEvent]()
-+ [IBranchOffice]()
-+ [IDocumentation]()
-+ [IPayment]()
-+ [IRate]()
++ [IClient](https://github.com/prmxt/Insurance-company/blob/master/docs/IClient.md)
++ [IWorker](https://github.com/prmxt/Insurance-company/blob/master/docs/IWorker.md)
++ [IContract](https://github.com/prmxt/Insurance-company/blob/master/docs/IContract.md)
++ [IInsuranceEvent](https://github.com/prmxt/Insurance-company/blob/master/docs/IInsuranceEvent.md)
++ [IBranchOffice](https://github.com/prmxt/Insurance-company/blob/master/docs/IBranchOffice.md)
++ [IDocumentation](https://github.com/prmxt/Insurance-company/blob/master/docs/IDocumentation.md)
++ [IPayment](https://github.com/prmxt/Insurance-company/blob/master/docs/IPayment.md)
++ [IRate](https://github.com/prmxt/Insurance-company/blob/master/docs/IRate.md)
